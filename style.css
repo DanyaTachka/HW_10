@@ -1,0 +1,40 @@
+  .btn {
+    background-color: blue;
+    color: white;
+    border: none;
+    font-size: 24px;
+    border-radius: 5px;
+    cursor: pointer;
+    outline: none;
+    padding-top: 10px;
+    padding-right:20px;
+    padding-bottom: 10px;
+    padding-left:20px;
+    margin:40px;
+  }
+  .btn:hover {
+    background: orange;
+    font-size: 24px;
+    font-weight: 700;
+
+  }
+  .btn:focus {
+    background: orange;
+    font-size: 24px;
+    font-weight: 700;
+
+  }
+  .btn {
+      font-size: 24px;     
+      font-weight: 700;    
+      background: yellow; 
+      padding: 10px 20px;
+      margin: 40px;
+      border: none;  
+      border-radius: 8px;
+  }
+    .text {
+    font-size: 18px;
+    font-style: italic;
+    text-transform: uppercase;
+  }
